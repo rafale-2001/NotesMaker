@@ -1,4 +1,5 @@
-NotesMaker
+          NotesMaker
+          
 NotesMaker is a simple web application for creating and managing notes. It's built with React, and uses a JSON file to store notes in the browser's local storage.
 
 Features
