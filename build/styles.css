@@ -118,3 +118,9 @@ form button {
   cursor: pointer;
   outline: none;
 }
+
+
+.aboutcls{
+  right: 10px;
+  color: red;
+}
